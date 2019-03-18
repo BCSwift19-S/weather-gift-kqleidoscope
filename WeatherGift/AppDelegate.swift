@@ -16,7 +16,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-      GMSPlacesClient.provideAPIKey("<#T##key: String##String#>")
+      GMSPlacesClient.provideAPIKey("WeatherGift")
         return true
     }
 
