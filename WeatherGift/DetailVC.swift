@@ -8,6 +8,7 @@
 
 import UIKit
 
+
 class DetailVC: UIViewController {
     @IBOutlet weak var dateLabel: UILabel!
     @IBOutlet weak var locationLabel: UILabel!

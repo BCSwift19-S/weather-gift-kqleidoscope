@@ -8,6 +8,7 @@
 
 import UIKit
 
+
 class PageVC: UIPageViewController {
     var locationsArray = ["Local City", "Sydney, Australia", "Tokyo, Japan", "Los Angeles, CA"]
     var currentPage = 0
